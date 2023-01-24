@@ -10,4 +10,6 @@ The results generated showed that the average temperature in the month of June w
 The lowest temperature in June was recorded at 64 degrees and the highest was recorded at 85 degrees. In December the lowest and highest temperatures were 56 degrees and 83 degrees. 
 
 
+
+
 # Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
