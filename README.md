@@ -11,4 +11,5 @@ December -
 <img width="118" alt="Screen Shot 2023-01-25 at 9 54 09 AM" src="https://user-images.githubusercontent.com/117120227/214643699-3dd70ec6-107f-4e25-aafd-10850bc88c60.png">
 
 
-# Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+# Summary:
+ The results show that the year round weather in Oahu is ideal for W.Avy to invest in the surf and shake shop. The lowest it gets in the winter appears to be in the 50's with the highest in the summer reaching in the 80's. These results should provide clarity in the range of temperatures the shop may face while open. Some additional queries to help justify investing in the shop would be to gather information on the levels of precipitation in both months to help indicate any potential rise in sea levels. Higher sea levels can sometimes lead to frequent flooding or storm surges. Which in turn can have negative impacts on surfing by damaging surf breaks and altering the ocean's currents. The second query that could provide extra support is tracking wind speeds within those two months to determine potential conditions for surfers. The more wind, the more potential for ocean swells to build up causing unpredictable waves.
