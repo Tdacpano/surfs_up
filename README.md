@@ -8,8 +8,8 @@ The purpose of this analysis was to build on our module work of providing W.Avy 
 
 The results generated showed that the average temperature in the month of June was around 75 degrees and 71 degrees in the month of December. 
 The lowest temperature in June was recorded at 64 degrees and the highest was recorded at 85 degrees. In December the lowest and highest temperatures were 56 degrees and 83 degrees. 
-
-
+ June - <img width="118" alt="Screen Shot 2023-01-25 at 9 50 41 AM" src="https://user-images.githubusercontent.com/117120227/214642943-b28e4889-f39f-41fd-8db3-480406181d39.png">
+December - <img width="118" alt="Screen Shot 2023-01-25 at 9 51 12 AM" src="https://user-images.githubusercontent.com/117120227/214643012-a0caf6a2-42d8-4bd5-bcce-b13afef23121.png">
 
 
 # Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
